@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balloons", "Balloons\Balloons.csproj", "{2AFCC33D-8893-483C-A243-7C3885A9EBEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaloonsTests", "BaloonsTests\BaloonsTests.csproj", "{8DFE8258-E18F-4444-9431-C67F61878E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AFCC33D-8893-483C-A243-7C3885A9EBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFCC33D-8893-483C-A243-7C3885A9EBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFCC33D-8893-483C-A243-7C3885A9EBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFCC33D-8893-483C-A243-7C3885A9EBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DFE8258-E18F-4444-9431-C67F61878E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFE8258-E18F-4444-9431-C67F61878E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFE8258-E18F-4444-9431-C67F61878E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFE8258-E18F-4444-9431-C67F61878E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18BB13D8-ABEB-4378-B56F-BD8331234FD4}
+	EndGlobalSection
+EndGlobal
